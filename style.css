@@ -472,7 +472,9 @@ body {
     color: #1697a3;
 }
 
+
 /* Mais Funcionalidades */
+
 .mais-funcionalidade {
     margin-bottom: 0;
 }
@@ -517,13 +519,13 @@ body {
     align-items: center;
     justify-content: center;
     height: 80px;
-    margin: auto;   
+    margin: auto;
     animation: one-animated 8s infinite;
-    margin-bottom: 40px; 
+    margin-bottom: 40px;
     width: 80px;
 }
 
-.func-figure img {    
+.func-figure img {
     width: 150px;
     margin-bottom: -15px;
 }
@@ -560,3 +562,20 @@ body {
     margin-left: -40px;
 }
 
+
+/* Botão para ir ao topo */
+
+#link-topo {
+    position: fixed;
+    right: 3rem;
+    bottom: 3rem;
+    width: 3rem;
+    height: 3rem;
+    background: #373970;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: .3rem;
+    box-shadow: 0 0.1rem 0.6rem #00000009;
+}
