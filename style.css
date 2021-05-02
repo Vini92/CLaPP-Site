@@ -227,6 +227,7 @@ body {
     animation-delay: 1s;
 }
 
+
 /*=== CONTAINER - CONTENT ===*/
 
 .container {
@@ -308,4 +309,23 @@ body {
 
 .list-modulos ul li img {
     width: 7em;
+}
+
+
+/* Index Serviços */
+
+.index-servicos .beneficios-text {
+    width: 50%;
+    float: left;
+}
+
+.index-servicos .beneficios-figure {
+    width: 30%;
+    float: left;
+    margin-right: 90px;
+}
+
+.index-servicos .beneficios-figure img {
+    width: 100%;
+    float: left;
 }
