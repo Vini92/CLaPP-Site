@@ -631,3 +631,91 @@ body {
         text-align: center;
     }
 }
+
+@media only screen and (max-width: 836px) {
+    /* Header */
+    .header {
+        margin-bottom: 0;
+    }
+    .header-content {
+        margin-top: 17%;
+    }
+    .header-back {
+        min-height: 80vh;
+    }
+    .header-lg {
+        margin-top: 3%;
+    }
+    .header-lg-text h1 {
+        font-size: 36px;
+        line-height: 28px;
+    }
+    .header-lg-text h2 {
+        font-size: 15px;
+        line-height: 14px;
+        margin-top: 7px;
+        padding: 0 0 11px 0;
+    }
+    .header-lg-text a {
+        padding: 0;
+        min-width: 115px;
+    }
+    .header-shape {
+        height: 103%;
+        top: 0;
+    }
+    .header-shape img {
+        margin-top: 20px;
+        width: 143%;
+        height: 88%;
+        margin-left: -40px;
+    }
+    .title-index {
+        width: 100%;
+    }
+    .index-servicos .beneficios-figure,
+    
+    .index-servicos .beneficios-figure img,
+    
+    .index-servicos .beneficios-text,
+    
+    /* Mais Funcionalidade */
+    .mais-funcionalidade ul li {
+        width: 44%;
+    }
+    .mais-funcionalidade ul li:nth-child(1) {
+        margin-left: 5%;
+    }
+    .mais-funcionalidade ul li:nth-child(2),
+    .mais-funcionalidade ul li:nth-child(4),
+    .mais-funcionalidade ul li:nth-child(6),
+    .mais-funcionalidade ul li:nth-child(8),
+    .mais-funcionalidade ul li:nth-child(10),
+    .mais-funcionalidade ul li:nth-child(12),
+    .mais-funcionalidade ul li:nth-child(14) {
+        margin-right: 5%;
+    }
+    .mais-funcionalidade ul li:nth-child(3),
+    .mais-funcionalidade ul li:nth-child(5),
+    .mais-funcionalidade ul li:nth-child(7),
+    .mais-funcionalidade ul li:nth-child(9),
+    .mais-funcionalidade ul li:nth-child(11),
+    .mais-funcionalidade ul li:nth-child(13) {
+        margin-left: 5%;
+    }
+    .mais-funcionalidade ul li:nth-child(3),
+    .mais-funcionalidade ul li:nth-child(9) {
+        margin-right: 2%;
+    }
+    .mais-funcionalidade ul li:nth-child(4),
+    .mais-funcionalidade ul li:nth-child(6),
+    .mais-funcionalidade ul li:nth-child(8),
+    .mais-funcionalidade ul li:nth-child(10),
+    .mais-funcionalidade ul li:nth-child(12),
+    .mais-funcionalidade ul li:nth-child(14) {
+        margin-left: 0;
+    }
+    .mais-funcionalidade ul li:nth-child(15) {
+        margin-right: 0;
+    }
+}
