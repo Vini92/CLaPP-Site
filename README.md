@@ -5,16 +5,15 @@
 Projeto Final da disciplina de Gerenciamento de Configurações e Mudanças, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPB - Campus Cajazeiras.
 
 O nome do projeto foi escolhido com base no seguindo do seu desenvolvimento, que foi colocado como um site para desenvolvimento de uma empresa de provedor de internet. Chegando ao consenso da equipe, o nome do projeto escolhido foi:
-  * LIGNET
+  * CLaPP
 
 
 # Descrição do projeto
 
-Projeto final criado para aprendizagem na disciplina Linguagens de Marcação. Foram usados para desenvolvimento do projeto:
+Foram usados para desenvolvimento do projeto:
 
   * HTML;
   * CSS;
-  * JS.
 
 # Contribuição do Projeto
 
@@ -40,3 +39,7 @@ Crie um problema neste repositório e forneça as informações como no modelo a
   * Título: Use um título bem criativo para o problema;
   * Descrição: Insira uma descrição de forma clara relatando sobre o problema.
   * Exemplos: Insira exemplos específicos com as etapas para chegar no arquivo ou página do problema.
+
+# Desenvolvedores
+* Vinícius da Silva Ribeiro
+* Alexsander Arcelino
