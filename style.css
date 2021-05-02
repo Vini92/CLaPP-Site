@@ -13,3 +13,79 @@ body {
     background: #ffffff;
     font-family: 'Poppins', sans-serif;
 }
+
+/* Header - Menu */
+.menu-header {
+	width: 90%;
+	color: #333;
+	z-index: 9998;
+	overflow: hidden;
+	z-index: 9999;
+	position: relative;
+}
+
+.logo {
+    width: 90px;
+    margin-left: 10%;
+    padding: 10px 0;
+    float: left;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.menu {
+    float: right;
+    line-height: 100px;
+    margin-right: 10%;
+}
+
+.menu a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: 0.4s;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.menu a:hover {
+    color: #caccd1;
+}
+
+.show-menu-btn,
+.hide-menu-btn {
+    transition: 0.4s;
+    font-size: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.show-menu-btn {
+    float: right;
+}
+
+.show-menu-btn i {
+    line-height: 72px;
+}
+
+.menu a:hover,
+.show-menu-btn:hover,
+.hide-menu-btn:hover {
+    color: #3498db;
+}
+
+#chk {
+    position: absolute;
+    visibility: hidden;
+    z-index: -1;
+}
+
+.bg-todo {
+    width: 100%;
+    overflow: hidden;
+    height: 100vh;
+}
