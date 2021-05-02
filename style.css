@@ -226,3 +226,86 @@ body {
     animation-duration: 5s;
     animation-delay: 1s;
 }
+
+/*=== CONTAINER - CONTENT ===*/
+
+.container {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 140px;
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container h3 {
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    color: #232323;
+    line-height: normal;
+    margin: 0 0 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container h4 {
+    font-size: 25px;
+}
+
+.container p {
+    color: #6f6f6f;
+    font-size: 15px;
+}
+
+.title-index {
+    width: 70%;
+    margin: 0 auto;
+    text-align: justify;
+    margin-bottom: 3%;
+}
+
+
+/* MÓDULOS */
+
+.content-modulos {
+    width: 80%;
+    overflow: hidden;
+    padding: 0 10%;
+}
+
+.index-modulos ul {
+    width: 100%;
+    overflow: hidden;
+}
+
+.index-modulos ul li {
+    width: 45%;
+    float: left;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.index-modulos ul li:nth-child(2) {
+    float: right;
+}
+
+.index-modulos img {
+    margin-bottom: 10px;
+}
+
+.index-modulos h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.index-modulos p {
+    text-align: justify;
+}
+
+.list-modulos ul li img {
+    width: 7em;
+}
