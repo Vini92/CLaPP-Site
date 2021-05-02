@@ -4,7 +4,7 @@
 
 Projeto Final da disciplina de Gerenciamento de Configurações e Mudanças, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFPB - Campus Cajazeiras.
 
-O nome do projeto foi escolhido com base no seguindo do seu desenvolvimento, que foi colocado como um site para desenvolvimento de uma empresa de provedor de internet. Chegando ao consenso da equipe, o nome do projeto escolhido foi:
+O nome do projeto foi escolhido com base na proposta de construir um site para uma empresa de software fictícia. Sendo uma companhia especializada na criação de sites e aplicativos surgiu a ideia de brincar com as palavras APP (Application) e Clap (bater palmas). Chegando ao consenso da equipe, o nome do projeto escolhido foi:
   * CLaPP
 
 
