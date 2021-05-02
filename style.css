@@ -14,14 +14,16 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+
 /* Header - Menu */
+
 .menu-header {
-	width: 90%;
-	color: #333;
-	z-index: 9998;
-	overflow: hidden;
-	z-index: 9999;
-	position: relative;
+    width: 90%;
+    color: #333;
+    z-index: 9998;
+    overflow: hidden;
+    z-index: 9999;
+    position: relative;
 }
 
 .logo {
@@ -88,4 +90,139 @@ body {
     width: 100%;
     overflow: hidden;
     height: 100vh;
+}
+
+
+/*=== Header ===*/
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 90px;
+    margin-top: -120px;
+    z-index: -1;
+}
+
+.header-back {
+    min-height: 800px;
+    position: relative;
+    overflow: hidden;
+}
+
+.header-content {
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 140px;
+}
+
+.banner-content-img {
+    position: absolute;
+    right: 20px;
+    top: 120px;
+    max-width: 50%;
+    z-index: 9;
+}
+
+.banner-content-img img {
+    max-width: 90%;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.header-lg {
+    margin-left: 13%;
+    margin-top: 5%;
+    z-index: 9999;
+    width: 63%;
+}
+
+.header-lg-text {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    z-index: 999;
+}
+
+.header-lg-text h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    color: #fff;
+    line-height: 70px;
+    font-weight: 300;
+    letter-spacing: 0;
+    animation-duration: 2s;
+    animation-delay: 1s;
+}
+
+.header-lg-text h2 {
+    padding-bottom: 10px;
+    font-size: 20px;
+    line-height: 36px;
+    padding: 0 0 30px 0;
+    color: #fff;
+    letter-spacing: 0.5px;
+    font-weight: 300;
+    animation-duration: 3s;
+    animation-delay: 1s;
+}
+
+.header-lg-text p {
+    width: 82%;
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.5px;
+    font-weight: normal;
+}
+
+.header-lg-text a {
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid white;
+    font-weight: 700;
+    display: inline-block;
+    min-width: 150px;
+    padding: 0 10px;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 42px;
+    font-size: 10px;
+    letter-spacing: 0.065rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.3s ease;
+    font-family: 'Montserrat', sans-serif;
+    animation-duration: 4s;
+    animation-delay: 1s;
+}
+
+.header-lg-text a:hover {
+    cursor: pointer;
+    background: #fff;
+    color: #333;
+}
+
+.header-shape {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.header-shape img {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    vertical-align: middle;
+    border-style: none;
+    background-image: linear-gradient(to right top, #5255A8, #595CB5, #333568, #393B75, #27284F);
+    animation-duration: 5s;
+    animation-delay: 1s;
 }
