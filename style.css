@@ -329,3 +329,39 @@ body {
     width: 100%;
     float: left;
 }
+
+/* BENEFICIOS */
+
+.beneficios-index {
+    width: 100%;
+    overflow: hidden;
+}
+
+.beneficios-index ul {
+    margin-top: 25px;
+}
+
+.beneficios-index ul li {
+    position: relative;
+    padding: 0 0 8px 40px;
+    margin: 0 0 8px 0;
+    list-style: none;
+}
+
+.beneficios-index ul li i {
+    color: #0084e9;
+    font-size: 12px;
+    background: rgba(0, 132, 233, 0.1);
+    margin-right: 12px;
+    border-radius: 30px;
+    padding: 6px;
+    position: absolute;
+    left: 0;
+    top: 2px;
+    line-height: 12px;
+}
+
+.beneficios-index ul li p {
+    line-height: 20px;
+    padding-top: 9px;
+}
