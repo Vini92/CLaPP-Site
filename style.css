@@ -579,3 +579,55 @@ body {
     border-radius: .3rem;
     box-shadow: 0 0.1rem 0.6rem #00000009;
 }
+
+@media only screen and (max-width: 1369px) {
+    /* Header */
+    .header {
+        min-height: 100vh;
+    }
+    .header-back {
+        min-height: 100vh;
+    }
+    /* Mais Funcionalidade */
+    .mais-funcionalidade ul li {
+        width: 25%;
+    }
+    .mais-funcionalidade ul li:nth-child(1),
+    .mais-funcionalidade ul li:nth-child(9),
+    .mais-funcionalidade ul li:nth-child(13) {
+        margin-left: 10%;
+    }
+    /* Removendo todos */
+    .mais-funcionalidade ul li:nth-child(4),
+    .mais-funcionalidade ul li:nth-child(8),
+    .mais-funcionalidade ul li:nth-child(12),
+    .mais-funcionalidade ul li:nth-child(15) {
+        margin-right: 0;
+    }
+    .mais-funcionalidade ul li:nth-child(5),
+    .mais-funcionalidade ul li:nth-child(9),
+    .mais-funcionalidade ul li:nth-child(12) {
+        margin-left: 0;
+    }
+    .mais-funcionalidade ul li:nth-child(3),
+    .mais-funcionalidade ul li:nth-child(6),
+    .mais-funcionalidade ul li:nth-child(9),
+    .mais-funcionalidade ul li:nth-child(12),
+    .mais-funcionalidade ul li:nth-child(15) {
+        margin-right: 10%;
+    }
+    .mais-funcionalidade ul li:nth-child(4),
+    .mais-funcionalidade ul li:nth-child(7),
+    .mais-funcionalidade ul li:nth-child(10) {
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 1077px) {
+    /* Footer */
+    .footer-content ul {
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+    }
+}
