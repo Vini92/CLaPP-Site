@@ -21,25 +21,14 @@ Foram usados para desenvolvimento do projeto:
 
 ## Como posso contribuir?
 
-#### Reportando Bugs
+#### Reportando Bugs ou sugestões de melhorias
 
-Rastreados como problemas no GitHub.
-Crie um problema neste repositório e forneça as informações como no modelo abaixo:
+Você pode nos ajudar dando sugestões ou reportando problemas que encontrar no projeto. Para isso siga o modelo abaixo:
 
-  * Título: Use um título bem criativo para o problema;
-  * Descrição: Insira uma descrição de forma clara relatando sobre o problema.
-  * Exemplos: Insira exemplos específicos com as etapas para chegar no arquivo ou página do problema.
-
-
-#### Sugestão de Melhorias
-
-Rastreadas como problema no GitHub
-Crie um problema neste repositório e forneça as informações como no modelo abaixo:
-
-  * Título: Use um título bem criativo para o problema;
-  * Descrição: Insira uma descrição de forma clara relatando sobre o problema.
-  * Exemplos: Insira exemplos específicos com as etapas para chegar no arquivo ou página do problema.
+  * Título: Use um título apropriado para o problema ou sugestão;
+  * Descrição: Insira uma descrição de forma clara relatando sobre o ocorrido.
+  * Exemplos: Se possível insira exemplos específicos com as etapas para chegar no arquivo ou página do problema.
 
 # Desenvolvedores
-* Vinícius da Silva Ribeiro
-* Alexsander Arcelino
+* [Vinícius da Silva Ribeiro](https://github.com/Vini92)
+* [Alexsander Arcelino](https://github.com/alexsanderarcelino)
